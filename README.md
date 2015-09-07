@@ -1,6 +1,6 @@
 # AnodaXCodeColorTheme
 
-[ANDOA](http://anoda.mobi)'s internal XCode theme. Finely tuned by the hands of virgins.
+[ANODA](http://anoda.mobi)'s internal XCode theme. Finely tuned by the hands of virgins.
 
 ## Simple Installation:
 
