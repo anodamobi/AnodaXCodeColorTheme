@@ -2,6 +2,10 @@
 
 [ANODA](http://anoda.mobi)'s internal XCode theme. Finely tuned by the hands of virgins.
 
+![ANODA XCode Theme](https://raw.githubusercontent.com/anodamobi/AnodaXCodeColorTheme/master/screenshots/screenshot1.png)
+
+![ANODA XCode Theme](https://raw.githubusercontent.com/anodamobi/AnodaXCodeColorTheme/master/screenshots/screenshot2.png)
+
 ## Simple Installation:
 
 Run that script:
